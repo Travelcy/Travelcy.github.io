@@ -1,4 +1,5 @@
-# travelcy-privacy-policy
+# Travelcy Privacy Policy
+
 **Privacy Policy**
 
 Travelcy built the Travelcy app as an Ad Supported app. This SERVICE is provided by Travelcy at no cost and is intended for use as is.
